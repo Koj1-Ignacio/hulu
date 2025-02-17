@@ -1,0 +1,27 @@
+h1 {
+    
+    color: #00ff00;
+
+}
+
+.smd {
+
+    color: #002fff;
+}
+
+.wrapper{
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    background: #00ff00;
+}
+
+button{
+
+    background: #040611;
+    color: aliceblue;
+}
